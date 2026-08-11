@@ -11,32 +11,26 @@ redirect_from:
 
 Summary
 ======
-Own End-to-End product development from ideation to launch. Specialize in bridging product, AI, and engineering - transforming complex ideas into commercially viable products through technical execution and product strategy. I design and ship generative digital products: **Project MUSUBI** (AI-driven memory reconstruction), **KYOU** (generative-art PWA), **Tomo** (native iOS app).
+Making a deliberate, full pivot into cybersecurity, currently exploring **Cloud Security** and **Red Team / offensive security** in parallel to determine the right fit before committing to one track (see learning roadmap below). Prior background is end-to-end product engineering — real, shipped software, not mockups — which now serves as evidence of execution ability rather than as the professional identity itself.
 
 Education
 ======
 * **B.A.**, University of Michigan (Ann Arbor)
 
-Technical Focus & Skills
+Cybersecurity Learning Plan
 ======
-* **0-to-1 Product Engineering:** End-to-end ownership of generative web (Canvas/WebGL PWA) and native iOS (SwiftUI/SwiftData) products, from architecture through AI-assisted implementation to live deployment.
-* **AI Orchestration:** Integrating LLMs, Generative Vision (Midjourney/Runway/Stable Diffusion), and Prompt Engineering into cohesive automated creative workflows.
-* **Data & Systems Architecture:** ETL Pipeline Development (Python, SQL), Relational Data Modeling, and Knowledge Graph construction.
-* **Tools & Platforms:** Python (Pandas/NumPy), Terraform, Claude/Codex (AI-assisted development), SwiftUI/SwiftData, Microsoft Power Platform, Midjourney.
+* **Foundations:** networking (OSI/TCP-IP, subnetting, core protocols) and Linux fundamentals, in progress.
+* **Cloud Security track (exploring):** AWS/Azure security fundamentals, IAM, cloud posture auditing — practiced hands-on via **CloudGuard**, a personal lab project run against a real/LocalStack AWS environment (not yet a claimed professional skill).
+* **Red Team track (exploring):** OWASP Top 10, TryHackMe/HackTheBox rooms, working toward CompTIA Security+ as a baseline.
+
+
+Prior Execution Evidence
+======
+* **Adidas (Logistics Automation Specialist, Intern):** Built a live Power Automate + Power BI pipeline replacing a manual, error-prone Excel workflow across supplier/factory/logistics teams — real delivery inside an enterprise environment.
+* **Product engineering background :** Shipped end-to-end generative products (web PWA and native iOS) using AI-assisted development — kept as personal projects going forward, not resume-line evidence for the cybersecurity pivot.
 * **Languages:** Native Bilingual (Mandarin Chinese / English).
-
-Currently Learning
-======
-* **Cloud Security Engineering:** Actively building hands-on skills in cloud posture auditing (IAM/S3/RDS misconfigurations), automated governance, and compliance frameworks (NIST, ISO 27001, SOC 2) through **CloudGuard**, a self-directed, in-progress project.
-
-Professional Interests
-======
-* **Indie Hacking & Product Craftsmanship:** Passionate about 0-to-1 independent product development, rapidly building user-centric full-stack digital products, and shipping software from concept to live deployment.
-* **Product Packaging, Aesthetics & User Experience:** Obsessed with transforming raw concepts into products with a strong visual identity and intuitive interaction — embedding real design craft into software, from pixel-level polish to the systems that make people want to use it.
-* **Digital Heritage & Memory Preservation:** Exploring how generative AI can preserve personal memory as a lasting digital artifact (Project MUSUBI).
 
 Service and leadership
 ======
 * **Creative Society Advocate:** Exploring the intersection of technology and media through the **CiP (Contents Innovation Program)** framework.
-* **Multidisciplinary Builder:** Leading cross-border projects that require a synthesis of product engineering and creative design.
 

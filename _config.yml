@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Charles | AI Product Engineer"
+title                    : "Charles | Cybersecurity"
 title_separator          : "-"
 name                     : &name "Charles"
-description              : &description "AI Product Engineer. I take vague, undefined ideas and turn them into fully realized, highly compelling products — designed, built, and shipped end-to-end. Currently building hands-on cloud security skills as well."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Making a deliberate pivot into cybersecurity — exploring cloud security and red team in parallel, backed by a real study roadmap. Prior background in end-to-end product engineering, now a hobby, not the professional focus."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://charleschn.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Charles"
   pronouns         : # example: "she/her"  
-  bio              : "AI Product Engineer | Product Builder"
+  bio              : "Aspiring Cybersecurity Specialist | Cloud Security"
   location         : "APAC (VN, JP, SG, MY)"
   employer         : "University of Michigan Alumni"
   uri              : # URL
