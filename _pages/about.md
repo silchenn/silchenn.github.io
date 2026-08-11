@@ -23,8 +23,9 @@ Background
 Currently Building
 ======
 *   **Foundations first:** networking, Linux, and scripting fundamentals, followed by parallel light exploration of cloud security and offensive security material — see my learning roadmap for the full plan and current progress.
+*   **[Malware Traffic Analysis](/portfolio/malware-traffic-analysis/):** Hands-on network detection work — parsing real C2 pcaps (NetSupport RAT, FormBook) with Python/scapy, then writing statistically robust beacon and fan-out detection scripts, validated against real malware samples. This is the "Detective" persona in practice, not just a description.
 *   **CloudGuard:** A hands-on cloud security posture project — a Python (boto3) scanner for auditing AWS IAM/S3/RDS misconfigurations — that I'm building and deploying as a practice ground for real cloud security engineering.
-*   Honest status: no claimable security credential or professional evidence yet. This is early, and I'd rather say that plainly than overstate it.
+*   Honest status: no formal security credential yet, and CloudGuard is still spec-stage — but the traffic-analysis work above is real, working, git-tracked code run against real samples, not just a plan. I'd rather show what's actually built than overstate what isn't.
 
 Education
 ======
