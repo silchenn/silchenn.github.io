@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Charles | Cybersecurity"
+title                    : "Vincent | Cybersecurity"
 title_separator          : "-"
-name                     : &name "Charles"
+name                     : &name "Vincent"
 description              : &description "Making a deliberate pivot into cybersecurity — exploring cloud security and red team in parallel, backed by a real study roadmap. Prior background in end-to-end product engineering, now a hobby, not the professional focus."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://vinnychn.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "vinnychn/vinnychn.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Charles"
+  name             : "Vincent"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Cybersecurity Specialist | Cloud Security"
   location         : "APAC (VN, JP, SG, MY)"
