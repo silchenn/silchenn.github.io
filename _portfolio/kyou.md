@@ -5,7 +5,10 @@ collection: portfolio
 order: 1
 header:
   teaser: "kyou/hero_demo.png"
+link: "https://ink-kappa.vercel.app/"
 ---
+
+🔗 **Live Demo:** [https://ink-kappa.vercel.app/](https://ink-kappa.vercel.app/)
 
 **KYOU** (今日, *Today*) is a mobile-first, daily generative art Progressive Web App (PWA) that translates cosmological time coordinates (GanZhi, Five Elements) into a shared, deterministic Cyber-Electronic (赛博电子 / 电子中式) digital signal ritual.
 
