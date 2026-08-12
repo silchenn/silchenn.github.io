@@ -5,7 +5,6 @@ collection: portfolio
 order: 1
 header:
   teaser: "kyou/hero_demo.png"
-link: "https://ink-kappa.vercel.app/"
 ---
 
 🔗 **Live Demo:** [https://ink-kappa.vercel.app/](https://ink-kappa.vercel.app/)
