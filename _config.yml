@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Vincent | Cybersecurity"
+title                    : "Luke | Cybersecurity"
 title_separator          : "-"
-name                     : &name "Vincent"
+name                     : &name "Luke"
 description              : &description "Making a deliberate pivot into cybersecurity — exploring cloud security and red team in parallel, backed by a real study roadmap. Prior background in end-to-end product engineering, now a hobby, not the professional focus."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://vinnychn.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://lukechn.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vinnychn/vinnychn.github.io"
+repository               : "lukechn/lukechn.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ repository               : "vinnychn/vinnychn.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Vincent"
+  name             : "Luke"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Cybersecurity Specialist | Cloud Security"
   location         : "APAC (VN, JP, SG, MY)"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "vinnychn"
+  github           : "lukechn"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.i.e., use "1" or "1/jeff-atwood")    
 
