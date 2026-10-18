@@ -2,7 +2,7 @@
 title: "KYOU (今日): Cyber-Electronic Generative Art & Digital Ritual PWA"
 excerpt: "A 0-to-1 AI-assisted generative art PWA translating ancient GanZhi time coordinates into a daily glowing Cyber-Electronic (赛博电子) mosaic ritual. Showcasing 0-1 product design, electronic Chinese aesthetic curation, and full-stack AI-assisted engineering."
 collection: portfolio
-order: 1
+order: 2
 header:
   teaser: "kyou/hero_demo.png"
 ---
