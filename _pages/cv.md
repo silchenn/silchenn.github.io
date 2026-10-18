@@ -28,12 +28,9 @@ Cybersecurity Learning Plan
 Hands-On Evidence
 ======
 * **[Malware Traffic Analysis](/portfolio/malware-traffic-analysis/) — C2 beacon & fan-out detection:** Parsed real C2 malware pcaps (NetSupport RAT, FormBook) with Python/scapy into structured flow data, then wrote statistically robust (median/CV-based) beacon and fan-out detection scripts — validated against real infection samples, git-tracked with each fix documented. The most concrete cybersecurity evidence on this CV so far. Honest label: active, in-progress practice, not finished expertise.
-* **[antiscam-toolkit](/portfolio/antiscam-toolkit/) — scam link, wallet & fake-job-ad detection:** One Python detection core scoring URLs (brand-impersonation/typosquat heuristics, RDAP domain age, URLhaus, Google Safe Browsing), phone numbers, and TRON USDT wallets (Base58Check + on-chain Tether blacklist), plus a trilingual (zh/en/vi) rule + TF-IDF detector for scam-compound recruitment ads; served via CLI, Telegram bot and FastAPI web UI, 48 pytest tests. Honest label: beginner-level practice project, not deployed; classifier evaluated only on a small self-built synthetic set (real-sample evaluation pipeline built, real data still being collected).
+* **[Scam Hunter](/portfolio/scam-hunter/) — scam link, wallet & fake-job-ad detection:** One Python detection core scoring URLs (brand-impersonation/typosquat heuristics, RDAP domain age, URLhaus, Google Safe Browsing), phone numbers, and TRON USDT wallets (Base58Check + on-chain Tether blacklist), plus a trilingual (zh/en/vi) rule + TF-IDF detector for scam-compound recruitment ads; served via CLI, Telegram bot and FastAPI web UI, 48 pytest tests. Honest label: beginner-level practice project, not deployed; classifier evaluated only on a small self-built synthetic set (real-sample evaluation pipeline built, real data still being collected).
 * **Adidas (Logistics Automation Specialist, Intern):** Built a live Power Automate + Power BI pipeline replacing a manual, error-prone Excel workflow across supplier/factory/logistics teams — real delivery inside an enterprise environment.
 * **Product-building background:** Shipped end-to-end software (web PWA and native iOS) using AI-assisted development — kept as personal projects going forward, not resume-line evidence for the cybersecurity pivot.
 * **Languages:** Native bilingual (Mandarin Chinese / English).
 
-Service and leadership
-======
-* **Creative Society Advocate:** Exploring the intersection of technology and media through the **CiP (Contents Innovation Program)** framework.
 

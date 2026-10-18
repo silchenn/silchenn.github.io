@@ -1,8 +1,10 @@
 ---
-title: "antiscam-toolkit: Scam Link, Wallet & Fake-Job-Ad Detection"
+title: "Scam Hunter: Scam Link, Wallet & Fake-Job-Ad Detection"
 excerpt: "A defensive toolkit against Southeast-Asia scam patterns — one detection core that scores suspicious URLs, phone numbers, USDT (TRON) wallets and fake 'high-salary' job ads, served through a CLI, a Telegram bot and a web page."
 collection: portfolio
 order: 1
+redirect_from:
+  - /portfolio/antiscam-toolkit/
 ---
 
 > **Status note:** This is a beginner-level, in-progress practice project. The detection core, CLI, Telegram bot and web UI all run and are covered by a pytest suite (48 tests). It is **not deployed** to a public server and has no real users yet. The job-ad classifier has only been evaluated on a small **synthetic** dataset — see "Honest limits" below.
