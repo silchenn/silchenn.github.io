@@ -24,9 +24,9 @@ Currently Building
 ======
 *   **[Malware Traffic Analysis](/portfolio/malware-traffic-analysis/):** Hands-on network detection work — parsing real C2 pcaps (NetSupport RAT, FormBook) with Python/scapy, then writing statistically robust beacon and fan-out detection scripts, validated against real malware samples. This is the "Detective" persona in practice, and the most concrete piece of my pivot so far.
 *   **[antiscam-toolkit](/portfolio/antiscam-toolkit/):** A defensive toolkit against Southeast-Asia scam patterns — one Python detection core that scores suspicious links (typosquat heuristics, RDAP domain age, URLhaus / Safe Browsing), phone numbers, USDT (TRON) wallets (on-chain Tether blacklist check) and fake "high-salary" job ads (trilingual rules + a TF-IDF classifier), served through a CLI, a Telegram bot and a web page, with a pytest suite. Beginner-level and not deployed yet; the classifier is only evaluated on synthetic data so far, and I say so up front.
-*   **Foundations:** preparing for the **CCNA** (networking) and practicing Linux hands-on, alongside light parallel exploration of cloud-security and offensive-security material — see my learning roadmap for the full plan and current progress.
-*   **CloudGuard:** A cloud security posture project — a Python (boto3) scanner for auditing AWS IAM/S3/RDS misconfigurations — that I'm building as a practice ground for cloud security engineering. Still spec-stage.
-*   Honest status: no formal security credential yet (CCNA in preparation), and CloudGuard is still spec-stage — but the traffic-analysis and anti-scam work above is real, working, git-tracked code, not just a plan. I'd rather show what's actually built than overstate what isn't.
+*   **Foundations:** preparing for the **CCNA** (networking) and practicing Linux hands-on, the shared base for both detection and offensive work.
+*   **Offensive security (apprentice):** starting with structured labs — TryHackMe / HackTheBox rooms and the OWASP Top 10 — on legal, authorized targets only. No write-ups to show yet; they'll appear here once they exist.
+*   Honest status: no formal security credential yet (CCNA in preparation), and my offensive-security work is just beginning — but the traffic-analysis and anti-scam work above is real, working, git-tracked code, not just a plan. I'd rather show what's actually built than overstate what isn't.
 
 Education
 ======
@@ -35,4 +35,4 @@ Education
 
 Contact
 ======
-I am open to conversations about entry-level cybersecurity roles — SOC / detection engineering, cloud security, or red team — especially anywhere with a genuine mentorship/training path for someone making a deliberate career pivot. Reach out via [Email](mailto:siyuchinen@gmail.com) or connect with me on LinkedIn.
+I am open to conversations about entry-level cybersecurity roles — SOC / detection engineering, threat intelligence / OSINT, or junior penetration testing — especially anywhere with a genuine mentorship/training path for someone making a deliberate career pivot. Reach out via [Email](mailto:siyuchinen@gmail.com) or connect with me on LinkedIn.

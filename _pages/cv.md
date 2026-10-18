@@ -11,7 +11,7 @@ redirect_from:
 
 Summary
 ======
-Making a deliberate, full pivot into cybersecurity, exploring three tracks in parallel to determine the right fit before committing (decision checkpoint ~2026-11): **Detection Engineering / Blue Team** (where hands-on work has already started — see below), **Cloud Security**, and **Red Team / offensive security**. Prior background is end-to-end product building — real, shipped software, not mockups — which now serves as evidence of execution ability rather than as the professional identity itself.
+Making a deliberate, full pivot into cybersecurity, focused on two tracks: **Detection Engineering with an intelligence-gathering (OSINT) emphasis** — where hands-on work has already produced real projects (see below) — and **Offensive Security**, at apprentice level. Prior background is end-to-end product building — real, shipped software, not mockups — which now serves as evidence of execution ability rather than as the professional identity itself.
 
 Education
 ======
@@ -20,9 +20,9 @@ Education
 Cybersecurity Learning Plan
 ======
 * **Foundations:** preparing for **CCNA** (OSI/TCP-IP, subnetting, routing/switching) — main current focus, not yet passed; Linux fundamentals in hands-on practice.
-* **Detection Engineering / Blue Team (hands-on, ahead of the others):** malware traffic analysis / C2 detection and scam-indicator enrichment — see **Hands-On Evidence** below. Real, validated, git-tracked scripts; next steps are a Sigma-rule layer and a demoable alerting pipeline.
-* **Cloud Security (exploring):** AWS/Azure security fundamentals, IAM, cloud posture auditing — practice vehicle is **CloudGuard**, a personal lab project (spec-stage; not yet a claimed skill). Cloud foundations cert is the first milestone.
-* **Red Team (exploring):** OWASP Top 10, TryHackMe/HackTheBox rooms, CompTIA Security+ as a baseline.
+* **Detection Engineering / OSINT (hands-on):** malware traffic analysis / C2 detection and threat-intel / scam-indicator enrichment — see **Hands-On Evidence** below. Real, git-tracked tools; next steps are real-sample data for the anti-scam classifier, written OSINT investigations, and a Sigma-rule layer.
+* **Offensive Security (apprentice):** OWASP Top 10, TryHackMe/HackTheBox rooms and CTFs on authorized targets, building toward documented write-ups and an entry offensive cert (eJPT/PNPT), with OSCP as the mid-term goal.
+* **Baseline cert:** CompTIA Security+ (shared by both tracks), after CCNA.
 
 
 Hands-On Evidence
