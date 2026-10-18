@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Siyu | Cybersecurity"
 title_separator          : "-"
 name                     : &name "Siyu"
-description              : &description "Making a deliberate pivot into cybersecurity — exploring cloud security and red team in parallel, backed by a real study roadmap. Prior background in end-to-end product engineering, now a hobby, not the professional focus."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://williamchann.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Making a deliberate pivot into cybersecurity — exploring cloud security, detection engineering, and red team in parallel, backed by a real study roadmap and hands-on malware traffic analysis and an anti-scam detection toolkit. Prior background in end-to-end product engineering, now a hobby, not the professional focus."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://silchenn.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "williamchann/williamchann.github.io"
+repository               : "silchenn/silchenn.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Siyu"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring Cybersecurity Specialist | Cloud Security"
+  bio              : "Aspiring Cybersecurity Specialist | Detection Engineering · Cloud Security · Red Team (exploring)"
   location         : "APAC (VN, JP, SG, MY)"
   employer         : "University of Michigan Alumni"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "williamchann"
+  github           : "silchenn"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.i.e., use "1" or "1/jeff-atwood")    
 
