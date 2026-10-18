@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 > **Status note:** This is a beginner-level, in-progress practice project. The detection core, CLI, Telegram bot and web UI all run and are covered by a pytest suite (48 tests). It is **not deployed** to a public server and has no real users yet. The job-ad classifier has only been evaluated on a small **synthetic** dataset — see "Honest limits" below.
+>
+> **AI-assisted:** this project was built with AI assistance — AI coding assistants were used throughout development.
 
 **Objective:** Turn the scam patterns people around me actually run into — fake exchange links, unknown overseas callers, "send USDT to this address", and "high-salary customer service job in Cambodia, flights included" recruitment ads — into explainable, repeatable checks. Every risk score comes with the reasons behind it, so a non-technical user can see *why* something was flagged.
 
@@ -46,3 +48,4 @@ Each target gets a 0–100 score: **≥60 high risk, 25–59 suspicious, <25 not
 * **Core:** Python, `scikit-learn` (TF-IDF + classifier), RDAP, Google Safe Browsing API, URLhaus API, TRON / USDT contract calls
 * **Interfaces:** CLI, Telegram bot (`python-telegram-bot`), FastAPI web UI with a self-contained static page
 * **Quality:** pytest suite (48 tests), git-tracked
+* **Development:** AI-assisted (AI coding assistants used throughout)
