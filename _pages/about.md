@@ -1,21 +1,21 @@
 ---
 permalink: /
-title: "Cybersecurity — Detection Engineering · Cloud Security · Red Team (Exploring)"
+title: "Cybersecurity : Detection Engineering & Offensive Security Apprentice"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an aspiring cybersecurity specialist with a data-analytics and end-to-end product-building background. I bring hands-on experience building data pipelines and shipping software independently, and I'm now channeling that execution ability into a deliberate, full pivot into cybersecurity — exploring three tracks in parallel: **detection engineering / blue team**, **cloud security**, and **red team / offensive security**. The detection side is where I've done real work so far (see below), and I'm currently studying full-time for the CCNA.
+I am an aspiring cybersecurity specialist with a data analytics background. I bring hands-on experience building data pipelines and shipping software independently, and I'm now channeling that execution ability into a deliberate, full pivot into cybersecurity — exploring two tracks in parallel: **detection engineering (OSINT) and offensive security**. The detection side is where I've done real work so far (see below), and I'm currently studying for the CCNA.
 
 The "Detective" Persona
 ======
-I look for weak signals hidden inside noisy environments, connect scattered evidence into meaningful narratives, and stay curious until every anomaly has an explanation.
+I am deeply dedicated to cyber combat, particularly in the realms of intelligence gathering and offensive security operations (ethically, of course). I look at security as an interactive warfare on the wire. I look for weak signals hidden inside noisy environments and connect scattered evidence into meaningful narratives. 
 
 My instinct doesn't stop at investigation. I want to bring the data and automation habits from my prior work into security operations — turning one-off analysis into repeatable detection.
 
-Background (execution credibility, not security experience)
+Background
 ======
 *   **End-to-end product building:** shipped real, working software independently using AI-assisted development. Now personal craft, not the professional focus — but it's where the "build it, test it against reality, fix what breaks" habit comes from.
 *   **Data pipeline @ Adidas (Logistics Automation, Intern):** built a live pipeline replacing a manual, error-prone Excel workflow — real execution inside an enterprise environment.
