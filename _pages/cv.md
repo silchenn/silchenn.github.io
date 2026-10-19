@@ -11,7 +11,7 @@ redirect_from:
 
 Summary
 ======
-Making a deliberate, full pivot into cybersecurity, focused on two tracks: **Detection Engineering with an intelligence-gathering (OSINT) emphasis** — where hands-on work has already produced real projects (see below) — and **Offensive Security**, at apprentice level. Prior background is end-to-end product building — real, shipped software, not mockups — which now serves as evidence of execution ability rather than as the professional identity itself.
+Entry-level security analyst focused on detection engineering and open-source intelligence (OSINT), with a growing foundation in offensive security. Based in Southeast Asia, I'm motivated by the scam and fraud ecosystem I see around me, and built [Scam Hunter](/portfolio/scam-hunter/) to flag the fake links, crypto wallets and human-trafficking job ads common in the region. Also hands-on with real malware C2 traffic analysis and Python-based detection tooling. Background in data pipelines and analytics from a supply-chain automation internship at Adidas. Currently preparing for the CCNA. Bilingual in English and Mandarin.
 
 Education
 ======
