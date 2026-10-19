@@ -22,7 +22,7 @@ Cybersecurity Learning Plan
 * **Foundations:** preparing for **CCNA** (OSI/TCP-IP, subnetting, routing/switching) — main current focus, not yet passed; Linux fundamentals in hands-on practice.
 * **Detection Engineering / OSINT (hands-on):** malware traffic analysis / C2 detection and threat-intel / scam-indicator enrichment — see **Hands-On Evidence** below. Real, git-tracked tools; next steps are real-sample data for the anti-scam classifier, written OSINT investigations, and a Sigma-rule layer.
 * **Offensive Security (apprentice):** OWASP Top 10, TryHackMe/HackTheBox rooms and CTFs on authorized targets, building toward documented write-ups and an entry offensive cert (eJPT/PNPT), with OSCP as the mid-term goal.
-* **Baseline cert:** CompTIA Security+ (shared by both tracks), after CCNA.
+* **Baseline cert:** CompTIA Security+, after CCNA.
 
 
 Hands-On Evidence
