@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an aspiring cybersecurity specialist with a data analytics background. I bring hands-on experience building data pipelines and shipping software independently, and I'm now channeling that execution ability into a deliberate, full pivot into cybersecurity — exploring two tracks in parallel: **detection engineering (OSINT) and offensive security**. The detection side is where I've done real work so far (see below), and I'm currently studying for the CCNA.
+I am an aspiring cybersecurity specialist with a data analytics background. I bring hands-on experience building data pipelines, and I'm now channeling that execution ability into a deliberate, full pivot into cybersecurity，targeting **detection engineering (OSINT) and Adversarial AI**. 
 
 The "Detective" Persona
 ======
-I am deeply dedicated to cyber combat, particularly in the realms of intelligence gathering and offensive security operations (ethically, of course). I look at security as an interactive warfare on the wire. I look for weak signals hidden inside noisy environments and connect scattered evidence into meaningful narratives. 
+I am deeply dedicated to AI-era cyber combat, particularly in the realms of intelligence gathering and offensive security operations (ethically, of course). I look at security as an interactive warfare on the wire. I look for weak signals hidden inside noisy environments and connect scattered evidence into meaningful narratives. 
 
 My instinct doesn't stop at investigation. I want to bring the data and automation habits from my prior work into security operations — turning one-off analysis into repeatable detection.
 
