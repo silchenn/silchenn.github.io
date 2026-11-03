@@ -11,7 +11,7 @@ redirect_from:
 
 Summary
 ======
-Entry-level security analyst focused on detection engineering and open-source intelligence (OSINT), with a growing foundation in offensive security. Based in Southeast Asia, I'm motivated by the scam and fraud ecosystem I see around me, and built [Scam Hunter](/portfolio/scam-hunter/) to flag the fake links, crypto wallets and human-trafficking job ads common in the region. Also hands-on with real malware C2 traffic analysis and Python-based detection tooling.
+Aspiring Security Analyst focused on Detection Engineering and Open-source Intelligence (OSINT), with a growing foundation in offensive security. Based in Southeast Asia, I'm motivated by the scam and fraud ecosystem I see around me, and built [Scam Hunter](/portfolio/scam-hunter/) to flag the fake links, crypto wallets and human-trafficking job ads common in the region. Also hands-on with real malware C2 traffic analysis and Python-based detection tooling.
 
 Education
 ======
