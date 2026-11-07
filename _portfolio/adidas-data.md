@@ -2,7 +2,7 @@
 title: "Adidas (Internship): Supply Chain Automation & Systems Architecture"
 excerpt: "Architecting a real-time data pipeline for Adidas's global supply chain, transforming manual logistics into automated insights as a Logistics Automation Specialist."
 collection: portfolio
-order: 4
+order: 5
 ---
 
 **Objective:** During my tenure as a **Logistics Automation Specialist (Intern)**, I designed and implemented a centralized data pipeline to automate the integration of global supplier manufacturing data, replacing manual Excel-based workflows with a real-time monitoring solution.

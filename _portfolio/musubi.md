@@ -2,7 +2,7 @@
 title: "Project MUSUBI: Reconstructing Subjective Truth through AIGC"
 excerpt: "A generative media pilot (The DreamX Factory) using Midjourney to transform fleeting dreams and childhood memories into a secure digital heritage."
 collection: portfolio
-order: 3
+order: 4
 ---
 
 <style>
